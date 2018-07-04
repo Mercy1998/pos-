@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7bf56f69-1264-421a-8683-8cd627dc0df0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/posSystem/src/components/common/leftNav.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/posSystem/src/components/page/pos.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/posSystem/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/posSystem/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/posSystem/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/posSystem/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/posSystem/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/posSystem/src/components/page/HelloWorld.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/posSystem/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/posSystem/src/router/index.js" afterDir="false" />
-    </list>
+    <list default="true" id="7bf56f69-1264-421a-8683-8cd627dc0df0" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -44,7 +36,7 @@
         <entry file="file://$PROJECT_DIR$/posSystem/src/components/common/leftNav.vue">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="215">
-              <caret line="40" column="12" lean-forward="true" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
+              <caret line="40" column="12" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -84,9 +76,9 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/posSystem/node_modules" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="152" />
-    <option name="y" value="22" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="45" />
+    <option name="y" value="47" />
     <option name="width" value="1384" />
     <option name="height" value="945" />
   </component>
@@ -196,15 +188,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1530667509506</updated>
-      <workItem from="1530667519635" duration="9706000" />
+      <workItem from="1530667519635" duration="10083000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9706000" />
+    <option name="totallyTimeSpent" value="10083000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="122" y="18" width="1107" height="756" extended-state="0" />
+    <frame x="108" y="47" width="1107" height="756" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24086224" />
@@ -283,7 +275,7 @@
     <entry file="file://$PROJECT_DIR$/posSystem/src/components/common/leftNav.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="215">
-          <caret line="40" column="12" lean-forward="true" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
+          <caret line="40" column="12" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
         </state>
       </provider>
     </entry>
