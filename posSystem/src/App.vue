@@ -20,7 +20,7 @@ export default {
 
 <style>
 #app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  font-family: '微软雅黑','Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
@@ -28,7 +28,7 @@ export default {
 }
   .main{
     float: left;
-    width: 95%;
+    width: 94%;
     background-color: #eff2f7;
     height: 100%;
     overflow: hidden;
